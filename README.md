@@ -1,4 +1,4 @@
-# Get all links on a website
+# Get all links on a webpage
 
 > Written in Python, this terminal based application pulls all href links from a webpage. Enjoy!!!
 
